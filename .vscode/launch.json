@@ -1,0 +1,267 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "p76",
+            "request": "launch",
+            "mainClass": "p76",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p78",
+            "request": "launch",
+            "mainClass": "p78",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p74",
+            "request": "launch",
+            "mainClass": "p74",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p73",
+            "request": "launch",
+            "mainClass": "p73",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p72",
+            "request": "launch",
+            "mainClass": "p72",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p71",
+            "request": "launch",
+            "mainClass": "p71",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p70",
+            "request": "launch",
+            "mainClass": "p70",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p39",
+            "request": "launch",
+            "mainClass": "p39",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p68",
+            "request": "launch",
+            "mainClass": "p68",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p67",
+            "request": "launch",
+            "mainClass": "p67",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p69",
+            "request": "launch",
+            "mainClass": "p69",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p2",
+            "request": "launch",
+            "mainClass": "p2",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p58",
+            "request": "launch",
+            "mainClass": "p58",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p57",
+            "request": "launch",
+            "mainClass": "p57",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p56",
+            "request": "launch",
+            "mainClass": "p56",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p55",
+            "request": "launch",
+            "mainClass": "p55",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p54",
+            "request": "launch",
+            "mainClass": "p54",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p53",
+            "request": "launch",
+            "mainClass": "p53",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p52",
+            "request": "launch",
+            "mainClass": "p52",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p51",
+            "request": "launch",
+            "mainClass": "p51",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p50",
+            "request": "launch",
+            "mainClass": "p50",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p49",
+            "request": "launch",
+            "mainClass": "p49",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p48",
+            "request": "launch",
+            "mainClass": "p48",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p47",
+            "request": "launch",
+            "mainClass": "p47",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p46",
+            "request": "launch",
+            "mainClass": "p46",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p45",
+            "request": "launch",
+            "mainClass": "p45",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p44",
+            "request": "launch",
+            "mainClass": "p44",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p43",
+            "request": "launch",
+            "mainClass": "p43",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p41",
+            "request": "launch",
+            "mainClass": "p41",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p40",
+            "request": "launch",
+            "mainClass": "p40",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p37",
+            "request": "launch",
+            "mainClass": "p37",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p36",
+            "request": "launch",
+            "mainClass": "p36",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p35",
+            "request": "launch",
+            "mainClass": "p35",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p34",
+            "request": "launch",
+            "mainClass": "p34",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p33",
+            "request": "launch",
+            "mainClass": "p33",
+            "projectName": "c programs_b9d6af4d"
+        },
+        {
+            "type": "java",
+            "name": "p32",
+            "request": "launch",
+            "mainClass": "p32",
+            "projectName": "c programs_b9d6af4d"
+        }
+    ]
+}
